@@ -1,0 +1,4 @@
+#Mon Jan 16 21:22:40 WIB 2023
+base.0=/Users/ReyhanMochram/Desktop/WT Project/ManClothing/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
